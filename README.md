@@ -1,6 +1,6 @@
 
 # Africa Happiest Countries 
-# Project Overview 
+# [Project Overview ](https://github.com/KariukiMwaniki/Africa-Happiness-Report-R-code--)
 
 •	In 2021 the World Happiness Report was published and i was particularly interested in the happiness score of African countries.I took the complete data and cleaned it to only African nations.
 
