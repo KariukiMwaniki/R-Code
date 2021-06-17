@@ -5,7 +5,7 @@
 •	In 2021 the World Happiness Report was published and i was particularly interested in the happiness score of African countries.I took the complete data and cleaned it to only African nations.
 
  
-•	I did a Linear Regression, Correlation and a decision tree based on Generosity and the Happiness score of  the cleaned data. 
+•	I did a Linear Regression and Correlation of the cleaned data. I also did a decision tree which was based on the variables of Generosity and the Happiness score. 
 
 ![Correlation](https://user-images.githubusercontent.com/84384891/122405347-d2fd5980-cf34-11eb-8a9a-1af417142cbf.png)
  
