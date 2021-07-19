@@ -14,7 +14,9 @@
 
 
 # Africa Internet and Facebook Subscribers 
+This project is a mapping of Africa Internet Users and Facebook Subscribers as of Decemember 2020 using the data provided by  [Internet World Stat ](https://www.internetworldstats.com/stats1.htm)
 
 
-![Rplot](https://user-images.githubusercontent.com/84384891/126127585-cd80ad31-62a2-4b0d-8a37-2eacee1e24d8.png)
-![Rplot01](https://user-images.githubusercontent.com/84384891/126127595-726ff546-a1a5-4c33-9ab6-71bf9f46a762.png)
+![Rplot01](https://user-images.githubusercontent.com/84384891/126129342-1bd95019-6349-4503-89ad-996ee2cd5f47.png)
+
+![Rplot03](https://user-images.githubusercontent.com/84384891/126129347-03570332-d9ca-4c12-8f26-bd941afcd107.png)
